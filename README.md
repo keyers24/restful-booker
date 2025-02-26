@@ -3,12 +3,13 @@
 
 - **Page Object Model (POM)**: The framework is built using the Page Object Model pattern for better reusability and maintainability.
 - **Technologies Used**:
-  - Java 11.0.
+  - Java 11.0
   - Rest-assured 5.4
 - **Framework Highlights**:
   - Automated by throwing rest-ful requests in a dynamic structure.
     
 - **Test Scenario**:
+   - https://restful-booker.herokuapp.com/apidoc/index.html
    - Scenario: Create Booking
    - Scenario: Get Booking
    - Scenario: Delete Booking
